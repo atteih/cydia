@@ -1,11 +1,11 @@
 <package>
 	<id>com.supermamon.oldpackage</id>
-	<name>Old Package</name>
+	<name>الاسم</name>
 	<version>1.0.0-1</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>13.3</maxiOS>
-			<otherVersions>unsupported</otherVersions>
+			<otherVersions>غير مدعوم</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
 			-->
