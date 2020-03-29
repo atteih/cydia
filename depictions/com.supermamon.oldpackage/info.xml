@@ -1,11 +1,11 @@
 <package>
 	<id>com.supermamon.oldpackage</id>
-	<name>الاسم</name>
+	<name>Old Package</name>
 	<version>1.0.0-1</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>13.3</maxiOS>
-			<otherVersions>غير مدعوم</otherVersions>
+			<maxiOS>7.0</maxiOS>
+			<otherVersions>unsupported</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
 			-->
@@ -13,11 +13,11 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>وصف</description>
+		<description>This is an old package. Requires iOS 7 and below..</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>الاصدار</change>
+		<change>Initial release</change>
 	</changelog>
 	<links></links>
 </package>
