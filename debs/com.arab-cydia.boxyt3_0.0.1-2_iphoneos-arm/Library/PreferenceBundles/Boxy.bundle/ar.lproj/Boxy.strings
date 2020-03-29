@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>*Apply Changes resprings the device. Only need to Apply Changes if you selected Custom Icon Layout or adjusted the Square Icon Labels, Page Control, or Icon Label Visibility </key>
+	<string>* اعادة تشغيل الجهاز لتطبيق التغييرات</string>
+	<key>@william_vab</key>
+	<string>αвσ яακαи ✨ تعريب &lt;ArCydia_Team&gt;</string>
+	<key>Apply Changes</key>
+	<string>تطبيق التغييرات</string>
+	<key>Blue</key>
+	<string>ازرق</string>
+	<key>Boxy</key>
+	<string>Boxy </string>
+	<key>Boxy© 2018 William Vabrinskas              wvabrinskas@gmail.com</key>
+	<string>Boxy© 2018 William Vabrinskas             
+
+تعريب فريق سيديا الـ ع ـرب @ArCydia_Team</string>
+	<key>Enable Quick Settings</key>
+	<string>تفعيل الاعدادات السريعة</string>
+	<key>Enabled</key>
+	<string>تفعيل</string>
+	<key>Force Touch</key>
+	<string>قوة اللمس</string>
+	<key>General Configurations</key>
+	<string>التكوينات العامة</string>
+	<key>Green</key>
+	<string>اخضر</string>
+	<key>Icon Layout Settings</key>
+	<string>اعدادات تخطيط الايقونات</string>
+	<key>New item</key>
+	<string>New string</string>
+	<key>Orange</key>
+	<string>برتقالي</string>
+	<key>Pink</key>
+	<string>وردي</string>
+	<key>Purple</key>
+	<string>ارجواني</string>
+	<key>Quick Settings Color</key>
+	<string>لون الاعدادات السريعة</string>
+	<key>Quick Settings Dark Mode</key>
+	<string>الوضع الليلي للاعدادات السريعة</string>
+	<key>Red</key>
+	<string>احمر</string>
+	<key>Swipe Up anywhere on the SpringBoard to access Quick Settings</key>
+	<string>مرر لأعلى في أي مكان على الشاشة الرئيسية للوصول إلى الإعدادات السريعة</string>
+	<key>Teal</key>
+	<string>فسفوري</string>
+	<key>Use Two Finger Tap Instead</key>
+	<string>استخدم اصبعين بدلاً من ذلك</string>
+	<key>White</key>
+	<string>ابيض</string>
+	<key>Yellow</key>
+	<string>اصفر</string>
+</dict>
+</plist>
